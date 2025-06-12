@@ -12,6 +12,56 @@ EcoScan is an innovative recycling application that leverages AI to help users p
 - **🎮 Gamification**: Complete challenges and climb the leaderboard
 - **🌍 Multilingual Support**: Available in English, isiZulu, and Afrikaans
 - **📊 Impact Tracking**: Visualize your environmental contribution
+  
+## 🌟 Features in Detail
+### 🧠 Smart Waste Classification
+- Real-time image analysis using Hugging Face model
+
+- Detailed disposal instructions
+
+- Material-specific recycling tips
+
+- Confidence scoring for classifications
+
+### 🏆 Reward System
+- Earn points for each successful scan
+
+- Redeem offers from eco-friendly partners
+
+- Track redemption history
+
+- Progress towards next reward tier
+
+### 🏛️ Municipal Dashboard
+- Heatmap of recycling activity
+
+- Route optimization for waste collection
+
+- Alert system for overflowing bins
+
+- Time-based analytics (daily/weekly/monthly)
+
+### 🎮 Gamification Elements
+- Daily and weekly challenges
+
+- Achievement system with rare unlocks
+
+- Leaderboard with community rankings
+
+- AI-generated personalized challenges
+
+- Environmental impact visualization
+
+### 🌍 Internationalization
+The app supports three languages:
+
+- English (🇺🇸)
+
+- isiZulu (🇿🇦)
+
+- Afrikaans (🇿🇦)
+
+Language switching is available throughout the application.
 
 ## 📁 Project Structure
 ```
@@ -86,7 +136,7 @@ VITE_HF_API_TOKEN=your_huggingface_token_here
 ### Rewards Page
 ![EcoScan Banner](rewards.png)
 ![EcoScan Banner](offers.png)
-### Municipal Page
+### Municipal Portal
 ![EcoScan Banner](municipal.png)
 
 
